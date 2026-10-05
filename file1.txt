@@ -1,1 +1,5 @@
 this is payment file
+
+a=1
+b=2
+payment = a+b;
