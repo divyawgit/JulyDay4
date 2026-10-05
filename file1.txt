@@ -1,1 +1,3 @@
 this is payment file
+
+adding the payments details git 
