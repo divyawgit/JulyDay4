@@ -1,5 +1,7 @@
 this is payment file
 
+adding the payments details git 
+
 a=1
 b=2
 payment = a+b;
